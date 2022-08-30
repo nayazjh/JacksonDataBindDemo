@@ -1,0 +1,15 @@
+{
+    "id" : 1,
+    "firstName" : "Rashida",
+    "lastName" : "H",
+    "activeStatus" : true,
+    "address": {
+        "street" : "Raghavendra Colony",
+        "city" : "Bellari",
+        "state" : "Karnataka",
+        "zip" : "560010",
+        "country" : "India"
+    },
+    "languages" : ["Java", "Python", "JavaScript"],
+    "company" : "LTI"
+}
